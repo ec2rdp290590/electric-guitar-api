@@ -9,6 +9,5 @@ Una API RESTful simple para gestionar guitarras eléctricas. Este proyecto demue
 - Actualizar información de guitarras existentes
 - Eliminar guitarras de la base de datos
 
-## Instalación
-
-1. Clona este repositorio:
+## Creador
+By Jesus Montes
